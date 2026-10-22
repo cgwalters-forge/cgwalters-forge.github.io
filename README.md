@@ -2,6 +2,6 @@
 
 # cgwalters-forge.github.io
 
-The organization site at <https://cgwalters-forge.github.io/>: one hand-written `index.html` summarizing the first-party projects, served by GitHub Pages from `main` with no build step.
+The organization site at <https://cgwalters-forge.github.io/>: one hand-written `index.html` describing how the first-party projects fit together, extending the organization README. It is served by GitHub Pages from `main` with no build step.
 
-When a first-party project is added, renamed or gets its own site, update its entry here.
+It is not a list of repositories; GitHub already shows those. Update it when the architecture changes.
